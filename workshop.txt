@@ -1,0 +1,8 @@
+version=1
+id=2926455909
+title=Large Progress Indicator
+description=Large Progress Indicator
+description=
+description=This mod is fully compatible with other moodles mods, allowing you to enhance your gaming experience without sacrificing any of your favorite moodles packs.
+tags=Build 41;Interface
+visibility=public
