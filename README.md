@@ -10,3 +10,8 @@ Compatible Moodles Packs
 - Simple Number Moodles
 - Moodle Quarters
 - Weather Moodles
+
+Workshop ID: 2926455909
+Mod ID: LargeProgressIndicator
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2926455909
